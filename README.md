@@ -25,15 +25,9 @@ https://www.python.org/downloads/release/python-272/
 $ git clone https://github.com/CSE-571-Team/CSE-571-Spring-2020-Group-10.git
 ```
 
-## Build/Run Instructions
+## Run Instructions
 
-1) Go to the wumpus directory in the cloned repository:
-```
-$ cd CSE-571-Spring-2020-Group-10
-$ cd wumpus
-```
-
-2) Running the Hybrid Logic Agent:
+1) Running the Hybrid Logic Agent:
 
 (i) Using default layout:
 ```
