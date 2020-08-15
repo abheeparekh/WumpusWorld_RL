@@ -1,4 +1,4 @@
-### Project Topic 5: Reinforcement Learning agent in Wumpus world
+# Reinforcement Learning agent in Wumpus world
 
 
 
