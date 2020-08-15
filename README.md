@@ -39,7 +39,7 @@ $ python wumpus.py -y
 $ python wumpus.py -y -l wumpus_4x4_1
 ```
 
-3) Running the Q-Learning Agent with noisy action model:
+2) Running the Q-Learning Agent with noisy action model:
 
 (i) Using default layout:
 ```
