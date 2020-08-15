@@ -101,34 +101,3 @@ Delta (-d): 0.001
 Number of runs (-r): 100
 ```
 
-## Team Members and Contributions
-
-```
-Saumil Dixit (sdixit10@asu.edu): Worked on preparing the final project report. Performed training experiments and statistical analysis on the working of the q-learning agent for different parameters and layouts. Compared the performance of the q-learning agent with the hybrid logic agent under the noisy action model.
-
-Sukhpreet Anand (ssanand3@asu.edu): Worked on integrating Hybrid Logic 
-Agent from ‘The Hunt the Wumpus’ project by University
-of Arizona with our Q-Learning agent project, including 
-integration testing.  Worked on statistical analysis of data 
-for different layouts and with different parameters. Created
-multiple layouts for assessing performance of the 
-q-learning agent
-
-Abhee Parekh (alparekh@asu.edu): Implemented code for updating q-values, 
-fetching q-values based on bellman equations and getting 
-set of legal actions defined by the game. Conducted
-training experiments for statistical analysis of performance 
-of Q-learning agent for different parameters and layouts.
-
-Rishabh Gupta (rgupta80@asu.edu): Worked on implementing the agent program 
-function which returns the required action based on the q 
-model prepared so far. Modified the parameters to be 
-considered in a single state. Prepared code for conducting 
-trainings along with convergence and executing the final 
-run. Conducted statistical analysis for different stochastic 
-values  and analysis of performance between hybrid logic 
-agent and q-learning agent.
-
-```
-
-   
