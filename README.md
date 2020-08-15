@@ -1,4 +1,3 @@
-# CSE-571-Spring-2020-Group-10
 ### Project Topic 5: Reinforcement Learning agent in Wumpus world
 
 
